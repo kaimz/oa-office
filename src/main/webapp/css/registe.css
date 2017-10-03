@@ -1,0 +1,60 @@
+#registe_content{
+	height:670px;
+}
+.registe_main{
+	border-bottom:1px solid #B6C0C2;
+	font-size:14px;
+	height:34px;
+	line-height:40px;
+	margin:0 12px;
+}
+.curr_address{
+	float:left;
+	height:34px;
+	width:600px;
+	margin-left:15px;
+}
+.registe_form{
+	border-right:1px solid #CECED0;
+	float:left;
+	width:600px;
+}
+.registe_content{
+	background-color:#f5fafd;
+	border:1px solid #e5e5e6;
+	width:950px;
+	height:628px;
+	margin:auto;
+	margin-top:10px;
+}
+table{
+	margin-left:65px;
+	margin-top:10px;
+}
+table tr td {
+	text-align:right;
+	color:#4c5261;
+	padding-top:5px;
+}
+input{
+	width:247px;
+	height:20px;
+}
+.registe_form_right{
+	width:340px;
+	float:left;
+	height:600px;
+}
+.registe_form_right_div{
+	border-bottom:1px solid #CECED0;
+	height:30px;
+	width:180px;
+	margin-top:100px;
+	margin-left:30px;
+	font-family:Microsoft YaHei;
+	font-size:14px;
+}
+.error_msg{
+	color:red;
+	float:left;
+}

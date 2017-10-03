@@ -1,0 +1,20 @@
+.detail_content table td{
+  	line-height: 32px;
+    padding: 4px;
+    vertical-align: middle;
+}
+.m-r-title{
+	width:150px;
+	text-align:right;
+}
+.m-r-content{
+	width:250px;
+}
+.detail-cont{
+  	border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    height: 28px;
+    line-height: 28px;
+    padding: 0 14px;
+    width: 170px;
+}

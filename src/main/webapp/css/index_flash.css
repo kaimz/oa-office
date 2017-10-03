@@ -1,0 +1,20 @@
+#fla{margin-left:-100px;}
+#gla_box{width:680px;margin:auto;position:relative;}
+#gla_box .prev,#gla_box .next{display:block;z-index:100;overflow:hidden;cursor:pointer;position:absolute;width:52px;height:52px;top:17px;}
+#gla_box .prev{background:url(images/btn.png) left bottom no-repeat;left:-155px}
+#gla_box .next{background:url(images/btn.png) right bottom no-repeat;right:-140px} 
+#gla_box .prev:hover{background-position:left top;}
+#gla_box .next:hover{background-position:right top;}
+.gla_inbox{overflow:hidden;position:relative;}
+.gla_inbox p{text-indent:1em;font-size:14px;width:40%;color:#FFFFFF;line-height:30px;background:#000000;}
+.gla_inbox a{display:block;color:#FFF;}
+.gla_inbox img{width:100%;height:100%;}
+.roundabout-holder{height:250px;width:700px;}
+.roundabout-moveable-item{height:200px;width:300px;cursor:pointer;}
+.roundabout-in-focus{cursor:auto;}
+li{
+	list-style-type:none;
+}
+.cornerClass a{
+	padding-left:30%;
+}

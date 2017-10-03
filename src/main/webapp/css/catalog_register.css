@@ -1,0 +1,59 @@
+body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:12px;
+        color:#666666;
+}
+
+input, select,textarea {
+        padding:2px;
+        margin:2px;
+        font-size:12px;
+}
+.buttom{
+        padding:1px 10px;
+        font-size:12px;
+        border:1px #CECED0 solid;
+        background:#D0F0FF;
+}
+#formwrapper {
+        width:600px;
+        margin:15px auto;
+        padding:20px;
+        text-align:left;
+}
+
+fieldset {
+        padding:10px;
+        margin-top:5px;
+        border:1px dashed  #CECED0;
+        background:#fff;
+}
+
+fieldset legend {
+        font-weight:bold;
+        padding:3px 20px 3px 20px;
+        border:1px dashed  #CECED0;        
+        background:#fff;
+}
+
+fieldset label {
+        float:left;
+        width:120px;
+        text-align:right;
+        padding:4px;
+        margin:1px;
+}
+
+.register_second_div{
+        clear:left;
+        margin-bottom:2px;
+}
+.add{text-align:right;}
+.enter{ text-align:center;}
+.clear {
+        clear:both;
+}
+[readonly=readonly]{
+	background-color:#F6F6F6;
+	border-color:#9EABB3 #D5DBDF #D5DBDF #9EABB3;
+}

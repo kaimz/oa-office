@@ -1,0 +1,80 @@
+body {
+	font-size: 12px;
+	color:#797979;
+	margin: 0;
+	padding: 0;
+	background-repeat: no-repeat;
+    background-image: url("../images/bg/xia.png");
+    background-attachment:fixed;
+}
+#main_cont{
+   	background-image: url("../images/09.png");
+    background-repeat: repeat-y;
+    margin: auto;
+    width: 1020px;
+    padding-left:7px;
+}
+.head_title{
+    background-image: url("../images/title_bg.png");
+    background-repeat: no-repeat;
+    height: 109px;
+}
+.navigate{
+	background:#388fde;
+    background-repeat: no-repeat;
+    margin-top:-11px;
+    height: 30px;
+}
+.navigate_ul{
+	list-style-type:none;
+}
+.navigate_ul li{
+	
+	float:left;
+	font-family:Microsoft YaHei;
+	font-size:15px;
+	line-height:30px;
+	text-align:center;
+}
+.nav_li{
+	width:130px;
+}
+.nav_img{
+	width:2px;
+}
+.navigate_ul li a{
+	text-decoration:none;
+	color:#FFFFFF;
+	display:block;
+	overflow:hidden;
+}
+.navigate_ul li a:hover{
+	 background-image: url("../images/02.png");
+}
+#announcement_div{
+	border:#d8dad9 1px solid;
+	height:20px;
+	margin-top:1px;
+}
+.announcement_content{
+	height:20px;
+ 	background-image: url("../images/03.png");
+    background-repeat: x-repeat;
+    margin-top:1px;
+}
+#last_announcement_title{
+	margin-left:-710px;
+	font-family:"simsun";
+	text-align:center;
+	
+}
+.foot_content{
+	text-align:center;
+	margin-top:20px;
+}
+.login_register{
+	margin-left:930px;
+	height:100px;
+	line-height:30px;
+	color:#ffffff;
+}

@@ -1,0 +1,227 @@
+.ResReload_main_right_containercon
+{
+	 position:relative;
+	 width:700px;
+	 margin:auto;
+}
+.ResReload_main_right_containercon
+{
+	*text-align:center;
+    top: 0px;
+    left: 0px;
+}
+.ResReload_main_right_containerconul
+{
+	margin:0 auto;
+	position:relative;
+    list-style-type:none; 
+    padding:0px;
+	top: 0px;
+	left: 0px;
+	display:table;
+	margin-left:auto;
+	margin-right:auto;
+}
+.ResReload_main_right_containerconul li
+{
+	float:left;
+	 *float:none;
+	 *display:inline;
+	 *zoom:1;
+}
+.ResReload_main_right_containerpage ul li div:hover
+{       
+    border:1px solid #6ba4cc;
+    cursor:pointer; 
+    color:#e17400;
+}
+.ResReload_main_right_containerpagefirst
+{
+     border:1px solid #5c7e96;
+     width:50px;
+     height:21px;  
+     line-height:21px;
+     text-align:center;  
+     color:#5c7e96;
+     margin:0px 10px 0px 0px;
+}
+.ResReload_main_right_containerpageup
+{
+     border:1px solid #5c7e96;
+     width:64px;
+     height:21px;  
+     line-height:21px;
+     text-align:center; 
+     margin:0px 10px 0px 0px;
+     color:#5c7e96;
+}
+.ResReload_main_right_containerpage ul li div:hover
+{       
+    border:1px solid #6ba4cc;
+    cursor:pointer; 
+    color:#e17400;
+}
+
+.ResReload_main_right_containerpageup a
+{  
+     color:#5c7e96;
+     border:0px;
+     text-decoration:none;
+}
+.ResReload_main_right_containerpagejump
+{
+     border:1px solid #5c7e96;
+     width:30px;
+     height:21px;  
+     line-height:21px;
+     text-align:center;  
+     color:#5c7e96;
+     margin:0px 10px 0px 0px;
+}
+.ResReload_main_right_containerpagejump input
+{
+    border:0px;
+    width:28px;
+    height:18px;    
+}
+.ResReload_main_right_containerpagecode
+{
+     border:1px solid #5c7e96;
+     width:22px;
+     height:21px;  
+     line-height:21px;
+     text-align:center;
+     margin:0px 10px 0px 0px;
+     color:#5c7e96;
+}
+.ResReload_main_right_containerpagecode a
+{
+     color:#5c7e96;
+     border:0px;
+     text-decoration:none;
+}
+
+#ResReload_main_right_containerpagecodeul
+{
+    list-style-type:none;
+    width:auto;
+    margin:0px; 
+    padding:0px; 
+}
+#ResReload_main_right_containerpagecodeul li
+{
+    float:left; 
+    width:24px;   
+    margin:0px 11px 0px 0px; 
+}
+.ResReload_main_right_containerpage
+{
+    margin:0px 0px 0px 15px;
+    height:35px;   
+    text-align:center;
+    line-height:60px;
+}
+
+.ResReload_main_right_containercon
+{
+	 position:relative;
+	 width:700px;
+	 margin:auto;
+}
+.ResReload_main_right_containercon
+{
+	*text-align:center;
+    top: 0px;
+    left: 0px;
+}
+.ResReload_main_right_containerconul
+{
+	margin:0 auto;
+	position:relative;
+    list-style-type:none; 
+    padding:0px;
+	top: 0px;
+	left: 0px;
+	display:table;
+	margin-left:auto;
+	margin-right:auto;
+}
+.ResReload_main_right_containerconul li
+{
+	 *float:none;
+	 *display:inline;
+	 *zoom:1;
+}
+.ResReload_main_right_containerpagecon
+{
+    text-align:center;
+        
+}
+.ResReload_main_right_containerpage ul li
+{
+    float:left;
+}
+
+.ResReload_main_right_containerpagefirst
+{
+     border:1px solid #5c7e96;
+     width:50px;
+     height:21px;  
+     line-height:21px;
+     text-align:center;  
+     color:#5c7e96;
+     margin:0px 10px 0px 0px;
+}
+.ResReload_main_right_containerpageup
+{
+     border:1px solid #5c7e96;
+     width:64px;
+     height:21px;  
+     line-height:21px;
+     text-align:center; 
+     margin:0px 10px 0px 0px;
+     color:#5c7e96;
+}
+
+.ResReload_main_right_containerpageup a
+{  
+     color:#5c7e96;
+     border:0px;
+     text-decoration:none;
+}
+.ResReload_main_right_containerpagejump
+{
+     border:1px solid #5c7e96;
+     width:30px;
+     height:21px;  
+     line-height:21px;
+     text-align:center;  
+     color:#5c7e96;
+     margin:0px 10px 0px 0px;
+}
+.ResReload_main_right_containerpagejump input
+{
+    border:0px;
+    width:28px;
+    height:18px;    
+}
+.ResReload_main_right_containerpagecode a
+{
+     color:#5c7e96;
+     border:0px;
+     text-decoration:none;
+}
+
+#ResReload_main_right_containerpagecodeul
+{
+    list-style-type:none;
+    width:auto;
+    margin:0px; 
+    padding:0px; 
+}
+#ResReload_main_right_containerpagecodeul li
+{
+    float:left; 
+    width:24px;   
+    margin:0px 11px 0px 0px; 
+}

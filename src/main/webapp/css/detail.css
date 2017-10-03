@@ -1,0 +1,11 @@
+a.registe_a:hover{
+	color:#E17400;
+	cursor:pointer;
+}
+a.login_a,a.registe_a{
+	color:#6D89A5;
+}
+a.login_a:hover{
+	color:#E17400;
+	cursor:pointer;
+}

@@ -1,0 +1,20 @@
+#login_content{
+	background-image: url("../images/dl.png");
+    background-repeat: no-repeat;
+    width:998px;
+    border:1px solid #ffffff;
+}
+
+.login_name_title,.login_password_title{
+	font-size:14px;
+	color:#818080;
+    font-family: Microsoft YaHei;
+}
+.login_name_title,.login_name{
+	width:50px;
+	float:left;
+}
+.login_password_title,.login_password{
+	width:50px;
+	float:left;
+}
